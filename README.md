@@ -1,4 +1,4 @@
-# School Management System
+# School Management
 
 This is a MERN stack website which can be used for managing the school. It has almost all features and few are in development phase.
 
@@ -6,10 +6,6 @@ This is a MERN stack website which can be used for managing the school. It has a
 
 ### `LIVE SITE`
 
-```bash
-https://manageschool1.herokuapp.com/
-
-``` 
 
 ### `LOGIN AS ADMIN AND SEE EVERYTHING`
 
@@ -23,7 +19,7 @@ Login password="adminpassword1"
 Clone the repo
 
 ```bash
-git clone https://github.com/upendradhamala/School-Management-System.git
+git clone https://github.com/hans11111111111/School-Management.git
 ```
 
 ### Getting Started
@@ -72,10 +68,6 @@ After seed is successful run following command to run both backend and frontend 
 npm run dev
 ```
 
-
-### `Homepage`
-
-[![Screenshot-from-2021-04-30-16-59-15.png](https://i.postimg.cc/jjHs8psH/Screenshot-from-2021-04-30-16-59-15.png)](https://postimg.cc/67QJq14q)
 
 
 
